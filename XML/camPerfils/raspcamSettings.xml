@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<settings>
+	<AWB>auto</AWB>
+	<Exposure>auto</Exposure>
+	<Denoise>1</Denoise>
+	<ColorBalance>1</ColorBalance>
+	<TriggeringTimeSecs>3</TriggeringTimeSecs>
+	<ShutterSpeedMs>0</ShutterSpeedMs>
+	<SquareShutterSpeedMs>0</SquareShutterSpeedMs>
+	<TimelapseDurationSecs>5</TimelapseDurationSecs>
+	<TimelapseInterval_ms>900</TimelapseInterval_ms>
+	<VideoDurationSecs>10</VideoDurationSecs>
+	<ISO>0</ISO>
+	<CameraMp>5</CameraMp>
+	<Flipped>1</Flipped>
+	<horizontalFlipped>1</horizontalFlipped>
+</settings>
